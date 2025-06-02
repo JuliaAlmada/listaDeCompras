@@ -15,8 +15,6 @@ A aplicação permite:
 - Marcar itens como comprados por meio de um checkbox
 - Atualizar automaticamente o estado da lista, mostrando uma mensagem quando está vazia
 
-![Inserção no campo de digitação do valor suco de laranja](https://imgur.com/TtQXfgX.gif)
-
 ---
 
 ## 🛠️ Tecnologias e Conceitos Aplicados
