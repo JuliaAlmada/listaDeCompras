@@ -1,32 +1,45 @@
+# 🛒 Lista de Compras Dinâmica
 
-![Descricao da sua imagem](https://imgur.com/C8TfWXc.png)
+Este projeto foi desenvolvido por mim durante o curso **"Construção de Páginas Dinâmicas com JavaScript"**. A proposta era criar uma aplicação web interativa que permitisse a manipulação de elementos da página em tempo real, utilizando HTML, CSS e JavaScript puros.
 
-# Titulo do projeto
+Aprendi a criar, estruturar e dinamizar componentes HTML via DOM, além de aplicar estilos e interações com JavaScript.
 
-Aplicação web de lista de compras para o curso de construção de páginas dinâmicas com JavaScript.
+---
 
-## 🔨 Funcionalidades do projeto
+## 🔧 Funcionalidades
 
-A aplicação permite inserir itens em uma lista de forma dinâmica. Os itens terão o nome e também a data e horário que foram criados. Também é possível selecionar um checkbox para informar que o item foi comprado.
+A aplicação permite:
+
+- Adicionar itens dinamicamente à lista de compras
+- Exibir a data e o horário de criação de cada item
+- Marcar itens como comprados por meio de um checkbox
+- Atualizar automaticamente o estado da lista, mostrando uma mensagem quando está vazia
 
 ![Inserção no campo de digitação do valor suco de laranja](https://imgur.com/TtQXfgX.gif)
 
-## ✔️ Técnicas e tecnologias utilizadas
+---
 
-As técnicas e tecnologias utilizadas pra isso são:
+## 🛠️ Tecnologias e Conceitos Aplicados
 
-- `HTML`: criação dos elementos da tela;
-- `CSS`: estilização da aplicação;
-- `JavaScript`: construção de elementos dinâmicos através da manipulação do DOM.
+- **HTML** – Estrutura da página e elementos visuais  
+- **CSS** – Estilização da interface e responsividade  
+- **JavaScript (DOM)** – Manipulação dinâmica de elementos, eventos e estrutura da lista  
 
-## 🛠️ Abrir e rodar o projeto
+---
 
-Após baixar o projeto, você pode abrir com o Visual Studio Code. Para isso, no menu superior, clique em:
+## 📦 Como rodar o projeto
 
-- **File** > **Open Folder** (ou alguma opção similar)
-- Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo)
-- Por fim clique em OK
+1. Baixe ou clone o repositório
+2. Abra a pasta no **Visual Studio Code**
+3. Com a extensão **Live Server** instalada:
+   - Clique com o botão direito no `index.html`
+   - Selecione **"Open with Live Server"**
 
-Ao finalizar esses passos, você pode executar a aplicação com a extensão Live Server 🏆 
+Pronto! A aplicação estará rodando localmente no seu navegador 🚀
 
+---
+
+## 👩‍💻 Sobre mim
+
+Este projeto fez parte do meu aprendizado em **JavaScript puro**, com foco em interações dinâmicas. Com ele, desenvolvi ainda mais minha habilidade em lógica, DOM e organização de código para web.
 
